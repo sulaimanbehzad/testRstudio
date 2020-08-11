@@ -1,2 +1,5 @@
 print('the firs try to connect R to github')
 print('now this file lives on github')
+a <- c(1,2,3,3,4,4,5,5,6,6)
+aMean <- mean(a)
+print(aMean)
