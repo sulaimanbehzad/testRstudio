@@ -1,13 +1,14 @@
 ---
 title: "Introduction to R Markdown"
 output: pdf_document
+author: "Sulaiman Behzad"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## One of the many good things about R Markdown
+## One of the many good things about **R Markdown**
 It compiles the code below and shows the output:
 
 ```{r}
